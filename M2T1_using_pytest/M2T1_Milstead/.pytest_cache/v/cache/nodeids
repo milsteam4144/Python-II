@@ -1,0 +1,9 @@
+[
+  "test_M2T1.py::test_has_which_vowels_all_vowels",
+  "test_M2T1.py::test_has_which_vowels_some_vowels",
+  "test_M2T1.py::test_has_which_vowels_no_vowels",
+  "test_M2T1.py::test_has_which_vowels_empty_string",
+  "test_M2T1.py::test_has_which_letters_normal_use",
+  "test_M2T1.py::test_has_which_letters_using_vowels",
+  "test_M2T1.py::test_has_which_letters_empty_list"
+]

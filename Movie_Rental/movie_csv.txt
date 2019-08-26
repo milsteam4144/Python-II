@@ -1,0 +1,9 @@
+title,pricePerDay,movieID,genre
+Forest Gump,1.00,1,regular
+Bad Santa,2.50,2,new release
+Lion King,3.00,3,childrens
+Aladdin,1.50,4,childrens
+Cast Away,2.00,5,regular
+Hot Tub Time Machine,1.75,6,new release
+Alice in Wonderland,3.50,7,childrens
+The Great Gatsby,2.75,8,regular
